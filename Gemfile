@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'rails-html-sanitizer', '1.0.2'
