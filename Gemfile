@@ -46,3 +46,5 @@ group :development do
 end
 
 gem 'rails-html-sanitizer', '1.0.2'
+
+gem 'rest-client', '~> 1', '>= 1.8'
