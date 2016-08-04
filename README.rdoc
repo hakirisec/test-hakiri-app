@@ -3,3 +3,4 @@
 {<img src="https://hakiri.io/github/hakirisec/test-hakiri-app/master.svg" alt="security" />}[https://hakiri.io/github/hakirisec/test-hakiri-app/master]
 
 This is just a test Rails app that shows how Hakiri {detects dependencies}[https://hakiri.io/github/hakirisec/test-hakiri-app/master].
+
